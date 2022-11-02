@@ -204,5 +204,5 @@ Authors
 👤 Samuel Asukwo
 •	GitHub: @Nlelsino1
 👤 David Adepegba
-•	GitHub: @ADEPEGBA1
+•	GitHub: @adepegba1
 
